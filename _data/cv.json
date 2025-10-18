@@ -1,32 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Sien Heng",
+    "email": "sheng923@terpmail.umd.edu",
+    "phone": "+1 (616) 216-4533",
+    "website": "https://sienheng.github.io",
+    "summary": "B.S. Student in Applied Mathematics at University of Maryland, College Park",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "8075 Hagerstown Drive, 5106 Hagerstown Hall",
+      "postalCode": "20742",
+      "city": "College Park, MD",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "SienHeng",
+        "url": "https://github.com/SienHeng"
       }
     ]
   },
@@ -36,32 +26,24 @@
       "institution": "GitHub University",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "September 2025",
+      "endDate": "May 2029 (Expected)",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+      {
+        "MATH140": "Calculus I",
+        "CMSC106": "Intruduction to C Programming"
+      }
+      ]
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "American English": "Non-native primary language",
+      "Mandarain Chinese": "Native fluency"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
