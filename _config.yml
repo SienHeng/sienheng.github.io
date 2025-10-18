@@ -24,11 +24,11 @@ repository               : "SienHeng/sienheng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Sien Heng (衡思恩)"
+  pronouns         : "he/him"
+  bio              : "B.S. Student in Applied Mathematics"
   location         : "College Park, MD"
-  Institution      : "University of Maryland, College Park"
+  employer         : 
   uri              : # URL
   email            : "sheng923@terpmail.umd.edu" 
 
