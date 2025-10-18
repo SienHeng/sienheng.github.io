@@ -27,9 +27,12 @@ Skills
 
 Publications
 ======
+
 Talks
 ======
+
 Teaching
 ======
+
 Service and leadership
 ======
