@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
 **Sien (Luke) Heng**\
-Last date of modifying: 2025-10-19
+
+Last Date of Modifying: 2025-10-19
 
 # Contact Information 
 
