@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, University of Maryland, College Park, May 2029 (Expected)
+* B.S. in Applied Mathematics, University of Maryland, College Park, Sep 2025 - May 2029 (Expected)
+* High School Diploma, Grand Rapids Christian High School, Jan 2022 - May 2025
 
 Work experience
 ======
@@ -31,8 +32,12 @@ Publications
 Talks
 ======
 
-Teaching
+Course Work
 ======
+* Calculus I: Introduction to differential and integral calculus.
+* Introduction to C Programming: Basics of C programming language.
+* Course 3: Description
 
 Service and leadership
 ======
+* Academic Tutor, Grand Rapids Christian High School, Aug 2024 - May 2025
