@@ -1,10 +1,4 @@
----
-layout: archive
-title: "Research"
-permalink: /research/
----
-
-Research
+Research Interests
 ======
 Theoretical
 ------
