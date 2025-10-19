@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-::: center
+# Curriculum Vitae
 **Sien (Luke) Heng**\
-*Curriculum Vitae*\
 Last date of modifying: 2025-10-19
-:::
 
 # Contact Information 
 
