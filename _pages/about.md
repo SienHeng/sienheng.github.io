@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sien Heng, a freshman undergraduate student at [Department of Mathematics](https://www-math.umd.edu/) the [University of Maryland](https://umd.edu/).
+Hi, I am Sien Heng, a freshman undergraduate student at [Department of Mathematics](https://www-math.umd.edu/) of the [University of Maryland](https://umd.edu/).
 
 Some of my academic interests are
 
