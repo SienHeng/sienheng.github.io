@@ -56,6 +56,9 @@ Last Date of Modifying: 2025-10-19
     2024\
     Bloomberg
 
+-   Certificate of Academic Achievement, Highest Honors 2025\
+    Grand Rapids Christian High School
+
 -   Certificate of Academic Achievement, Highest Honors 2024\
     Grand Rapids Christian High School
 
