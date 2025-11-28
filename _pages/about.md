@@ -15,5 +15,6 @@ Some of my academic interests are
 * Statistical decision making (Reinforcement learning, etc)
 * Machine learning theory
 * Optimization
+* Stochastic processes
 
 During my free time, I like to do some readings, playing billiard, and running.
