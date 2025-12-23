@@ -17,8 +17,10 @@ Some of my academic interests are
 * Optimization
 * Stochastic processes
 
-My Favourite Mathematical Function: The AIXI Function
+My Favourite Mathematical Function: The AIXI Function, a theoretical model of an optimal decision-making agent, as known as Artificial General Intelligence(AGI).
 
-$$a_t := \arg\max_{a_t} \sum_{e_t r_t} \dots \max_{a_m} \sum_{e_m r_m} [r_t + \dots + r_m] \sum_{q:U(q, a_1 \dots a_m)=e_1 r_1 \dots e_m r_m} 2^{-\text{len}(q)}$$
+$$
+a_t := \arg\max_{a_t} \sum_{e_t r_t} \dots \max_{a_m} \sum_{e_m r_m} [r_t + \dots + r_m] \sum_{q:U(q, a_1 \dots a_m)=e_1 r_1 \dots e_m r_m} 2^{-\text{len}(q)}
+$$
 
 During my free time, I like to do some readings, playing billiard, and running.
